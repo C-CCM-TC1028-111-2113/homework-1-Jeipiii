@@ -1,7 +1,5 @@
-def main():
-    #escribe tu código abajo de esta línea
-    pass
+cuatro_digitos = int(input("Dame un numero de 4 digitos"))
 
-
-if __name__ == '__main__':
-    main()
+if num in numbers:
+    num % 2 = 0
+    print("Ese numero es par")
